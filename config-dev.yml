@@ -1,5 +1,5 @@
 server:
-  port: 3355dasdhsalkdhsalkd
+  port: 3355
 
 spring:
   application:
@@ -35,4 +35,4 @@ management:
 
 
 config:
-  info: sssss
+  info: ssssssdasdasdsadsadasdasd
