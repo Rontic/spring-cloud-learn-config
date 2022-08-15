@@ -34,5 +34,5 @@ management:
         include: "*"
 
 
-info:
-  name: sssss
+config:
+  info: sssss
