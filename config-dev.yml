@@ -33,6 +33,5 @@ management:
       exposure:
         include: "*"
 
-
 config:
-  info: ssssssdasdasdsadsadasdasd
+  info: "dsadasdasdsadjaslkdjlksajdlkasjdklasjdlksajldjasl"
